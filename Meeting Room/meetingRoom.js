@@ -7,6 +7,9 @@
    return false
    - return true when meeting is done and anoher can begin 
 
+   Time complexity => O(nlogn)
+   space complexity => O(1)
+
 
  */
 

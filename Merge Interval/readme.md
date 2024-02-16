@@ -17,7 +17,10 @@ Constraints:
 intervals[i].length == 2
 0 <= starti <= endi <= 104
 
+Time complexity => O(nlogn)
+space complexity => O(n)
 Approach
+
 -sort intervals in ascending order
 
 - init an empty result
