@@ -1,5 +1,9 @@
 /**
  
+Input: s = "abccccdd"
+             ^
+{a:1,}
+
 initialize map {a:1,b:1,c:4,d:2 }
 count = 0
 loop through s
